@@ -14,6 +14,7 @@ class Home extends MY_Controller {
     public function index() {
         $this->template->set('title', 'Admin dashboard');
         $this->template->load('layouts/admin', 'admin/home');
+        $this->template->load('layouts/admin', 'admin/home');
     }
 }
 
