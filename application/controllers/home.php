@@ -19,4 +19,4 @@ class Home extends MY_Controller {
 
 /* End of file home.php */
 /* Location: ./application/controllers/admin/home.php */
-/*agregue es te commentario*/
+/*agregue es te commentario mas al comentario*/
